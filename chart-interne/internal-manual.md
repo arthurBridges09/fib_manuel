@@ -86,7 +86,7 @@ Un agent qui divulgue des informations volontairement ou involontairement se ver
 
 **\[ Article 2-2 a. ]** - Tout agent du service est autorisé à posséder un compte personnel sur les réseaux sociaux, sous réserve de respecter les dispositions énoncées dans le présent règlement.
 
-**\[ Article 2-2 b. ]** - L'agent doit veiller en tout temps à ce que ses comptes sur les différents réseaux sociaux ne révèlent en aucune manière son appartenance au département.
+~~**\[ Article 2-2 b. ]** - L'agent doit veiller en tout temps à ce que ses comptes sur les différents réseaux sociaux ne révèlent en aucune manière son appartenance au département.~~
 
 **\[ Article 2-2 c. ]** - L'agent est tenu de protéger la confidentialité de son affiliation au département lorsqu’il est hors-service, en évitant toute discussion ou toute publication qui pourrait révéler son statut d'agent en service actif.
 
