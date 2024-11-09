@@ -51,7 +51,17 @@ Chaque personnel s'annonce de la manière suivante : **\[Indicatif] + \[Matricul
 | Code 6                 | Poursuite à pied.                                                                                             |
 | Code 99                | <mark style="color:red;">**URGENCE ABSOLUE**</mark> toutes les unités disponible doivent se rendre sur place. |
 
-**Lieux indicatifs:**
+### Individu Indicatifs :&#x20;
+
+| Indicatifs | Signification                                  |
+| ---------- | ---------------------------------------------- |
+| GP         | Groupe de Particulier ou aussi Groupe de Civil |
+| Tango      | Individu Identifié comme dangereux ou Hostile  |
+| SDG        | Véhicule Suspect                               |
+| Mobster    | Membre de Gang                                 |
+| TIDY       | Manifestant                                    |
+
+### Lieux Indicatifs :&#x20;
 
 | Indicatif | Lieu                                       |
 | --------- | ------------------------------------------ |
@@ -67,15 +77,5 @@ Chaque personnel s'annonce de la manière suivante : **\[Indicatif] + \[Matricul
 | OLYMPE    | Bunker FIB                                 |
 
 ***
-
-## Poursuite
-
-*   Lorsque la poursuite commence, l'agent qui engage la poursuite informe immédiatement le QG.
-
-    * La localisation initiale et la direction de déplacement du suspect. (Ex: Alta Street direction sud)
-    * La description du véhicule (marque, modèle, couleur, plaque d'immatriculation alphabet phonétique).
-    * Le motif de la poursuite (par exemple, conduite dangereuse, fuite d'un contrôle..)
-
-    <mark style="color:orange;">**Si vous n'êtes pas en capacité de le faire donnez le strict minimum en terme d’informations comme le type de véhicule et sa couleur.**</mark>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeeIzuN4xjqXKYxtGR1M2lhtXo3O9JYWAd0Kp7YUNkLm90ke14Jn1o5oHnjNDGqMMdgolkh3joLO3fWgMKJ4OhWgYqHGxYhINLEcz2ybDNPJuPtEdx3ryVys2QodOJswcDeoIEDfXOEgc-dCOm7tCTSleW9tUs=s2048?key=wGrZXoek1RhxsHYyYIsIj61J" alt=""><figcaption></figcaption></figure>
