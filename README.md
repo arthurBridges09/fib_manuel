@@ -344,7 +344,7 @@ Tout manquement aux règles et principes définis par le présent code l'expose 
 
 **\[ Article 11-3 ]** - L'ensemble de l'équipement réglementaire, y compris l'arme de service, doit impérativement être rangé dans le casier de l'agent à la fin de chaque service. Il est interdit aux agents du Federal Bureau of Investigation d'utiliser leur équipement en dehors des heures de service.
 
-* \[ **Article 11-3 a. ]** - L'agent ayant le grade de Senior Special Agent ou supérieur est autorisé à conserver son arme de service après la fin de son service. Cependant, les réglementations relatives aux armes à feu restent inchangées (cf. [Article IV](https://manual.fib-agency.com/service/internal-regulations#article-iv-utilisation-de-la-force)).
+* \[ **Article 11-3 a. ]** - Tout les agents sont autorisé à conserver son arme de service après la fin de son service. Cependant, les réglementations relatives aux armes à feu restent inchangées(cf. [ArticleIV](./#article-iv-utilisation-de-la-force)).
 * \[ **Article 11-3 b. ]** - Toute utilisation de l'arme de service par un agent hors service doit faire l'objet d'un rapport écrit et doit être transmis à l'Inspection Division pour examen. Cependant, si l'agent utilise une arme personnelle, cette règle ne s'applique pas, bien qu'il soit tenu de respecter la législation en vigueur.
 * **\[ Article 11-3 c. ]** - Comme indiqué dans l'Art. 5-1, l'utilisation du véhicule de fonction ou d'un véhicule du service de manière personnelle ou en dehors du service de l'agent est strictement interdit.
 

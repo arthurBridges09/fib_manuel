@@ -31,6 +31,26 @@ Chaque personnel s'annonce de la manière suivante : **\[Indicatif] + \[Matricul
 | AIR  | AIR           | Special Flight Operations Unit    |
 | BOAT | BOAT          | Special Maritime Operations       |
 
+### Call Radio :
+
+| Indicatif              | Signification                                                                                                 |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Radio Check            | Pour vérifier le fonctionnement radio.                                                                        |
+| Sitrep                 | Pour demander un rapide rapport sur la situation.                                                             |
+| Copy/Reçu              | Pour dire que l’information est comprise.                                                                     |
+| Soyer avisé            | Afin de transmettre une information utile à une situation en cours.                                           |
+| Position               | Pour demander la localisation actuelle d’une unité.                                                           |
+| Rien à Signaler        | Pour indiquer que la situation est sous contrôle et qu’il n’y a aucune activité suspecte ou problème.         |
+| Call Prioritaire       | Signal utilisé pour informer que la transmission concerne une information urgente ou prioritaire.             |
+| Ignorer/avorte         | Pour annuler une demande ou une information précédemment transmise.                                           |
+| Backup                 | Pour demander l’assistance d’unités supplémentaires sur une situation.                                        |
+| All Clear              | Indique que la scène est sécurisée et sans danger.                                                            |
+| Retrait autorisé       | Pour signifier qu'une unité peut quitter la zone d'intervention.                                              |
+| Procédez avec prudence | Pour demander aux unités d’avancer prudemment en raison de risques potentiels.                                |
+| Code 4                 | Situation résolue.                                                                                            |
+| Code 6                 | Poursuite à pied.                                                                                             |
+| Code 99                | <mark style="color:red;">**URGENCE ABSOLUE**</mark> toutes les unités disponible doivent se rendre sur place. |
+
 **Lieux indicatifs:**
 
 | Indicatif | Lieu                                       |
@@ -45,3 +65,17 @@ Chaque personnel s'annonce de la manière suivante : **\[Indicatif] + \[Matricul
 | TANIERE   | Prison d'État (Bolingbroke)                |
 | ILONA     | Satellites Sandy Shores - Datacenter       |
 | OLYMPE    | Bunker FIB                                 |
+
+***
+
+## Poursuite
+
+*   Lorsque la poursuite commence, l'agent qui engage la poursuite informe immédiatement le QG.
+
+    * La localisation initiale et la direction de déplacement du suspect. (Ex: Alta Street direction sud)
+    * La description du véhicule (marque, modèle, couleur, plaque d'immatriculation alphabet phonétique).
+    * Le motif de la poursuite (par exemple, conduite dangereuse, fuite d'un contrôle..)
+
+    <mark style="color:orange;">**Si vous n'êtes pas en capacité de le faire donnez le strict minimum en terme d’informations comme le type de véhicule et sa couleur.**</mark>
+
+<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeeIzuN4xjqXKYxtGR1M2lhtXo3O9JYWAd0Kp7YUNkLm90ke14Jn1o5oHnjNDGqMMdgolkh3joLO3fWgMKJ4OhWgYqHGxYhINLEcz2ybDNPJuPtEdx3ryVys2QodOJswcDeoIEDfXOEgc-dCOm7tCTSleW9tUs=s2048?key=wGrZXoek1RhxsHYyYIsIj61J" alt=""><figcaption></figcaption></figure>
