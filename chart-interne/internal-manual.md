@@ -173,7 +173,10 @@ Les responsables de l’application des lois sont autorisés à recourir à la f
 
 **\[ Article 5-2 ]** - Chaque agent en possession d'un véhicule assigné se doit de garder son véhicule opérationnel et soigné en tout temps, équipé convenablement et rangé correctement.
 
-**\[ Article 5-3 ]** - Aucune modification esthétique n'est autorisée sur le véhicule de service. Le véhicule doit rester comme il a été perçu et mis aux normes, conformément aux lois en vigueur. Toutes les modifications doivent être approuvées par le Chief Office.
+**\[ Article 5-3 ]** - Le véhicule doit rester comme il a été perçu et mis aux normes, conformément aux lois en vigueur. Toutes les modifications doivent être approuvées par le Chief Office ou la Supervision.
+
+* \[ Article 5-3 a. ] - Les modification esthétique, tant qu'elle n'enfreint aucunement le code de l'état de San Andreas ou bien le dit Manuel, sont autoriser.
+* \[ Article 5-3 b. ] - La modification de la couleur et autoriser, cependant, celle-ci se doit de rester dans des teint sombre, ou non voyant (ex: Rose Interdit / Jaune Sable Autoriser).
 
 **\[ Article 5-4 ]** - Chaque agent se doit obligatoirement de verrouiller correctement son véhicule lorsqu'il est hors de celui-ci.
 
@@ -213,6 +216,14 @@ Les responsables de l’application des lois sont autorisés à recourir à la f
 **\[ Article 6-2 c. ]** - À la fin de son service, l'agent est tenu de retirer sa carte de la catégorie correspondant à son service. L'agent doit également procéder à la mise à jour ou à la suppression de toute autre carte comportant son nom ou son matricule pour assurer l'exactitude des informations relatives à l'unité
 
 **\[ Article 6-2 d. ]** - Le superviseur a le droit d'interroger à tout moment un agent concernant sa carte et son activité en cours. L'agent est tenu de répondre promptement et de manière transparente à toute interrogation (sans entrer dans les détails de l'enquête ou de l'opération) pour garantir une gestion efficace des opérations sur le terrain.
+
+#### Section 3 - Transpondeur <a href="#section-2-online-dispatch" id="section-2-online-dispatch"></a>
+
+\[ Article 6-3 a. ] - Chaque agent, au début de son service, est tenu d'allumer sont transpondeur en notant sont matricule sur celui-ci.
+
+\[ Article 6-3 b. ] - À la fin de son service, l'agent est tenu de désactiver sont transpondeur.
+
+\[ Article 6-3 c. ] - L'accès à la carte des transpondeurs sera octroyé à partir du grade de Supervisory Special Agent. Elle devient obligatoire pour tous les agents membres de la Supervision ou du Chief Office.
 
 ### Article VII - Gestion du Service et des Absences <a href="#article-vii-gestion-du-service-et-des-absences" id="article-vii-gestion-du-service-et-des-absences"></a>
 
@@ -317,10 +328,10 @@ Tout manquement aux règles et principes définis par le présent code l'expose 
 
 **\[ Article 10-9 ]** - Listes des sanctions applicables:
 
-* Suspension: L'agent est ne peut plus exercer son activité professionnelle pour une durée définie par le CO. L'agent ne pourra pas se présenter en qualité d'agent fédéral quelque soit les circonstances.
-* Rétrogradation: L'agent verra son rang réduit au sein de la hiérarchie.
-* Blâme: Le blâme constitue un avertissement officiel. Après 3 blâmes attribués, l'agent se verra révoqué des rangs du département. Un agent recevant un blâme verra automatiquement retardée sa promotion.
-* Licenciement: L'agent peut se voir révoqué de l'agence. Le licenciement peut être effectué avec ou sans préavis, selon la nature et la gravité des motifs.
+* <mark style="color:red;">**Suspension**</mark> : L'agent ne peut plus exercer son activité professionnelle pour une durée définie par le Chief Office/Supervision. L'agent ne pourra pas se présenter en qualité d'agent fédéral quelque soit les circonstances.
+* <mark style="color:red;">**Rétrogradation**</mark> : L'agent verra son rang réduit au sein de la hiérarchie.
+* <mark style="color:red;">**Blâme**</mark> : Le blâme constitue un avertissement officiel. Après 3 blâmes attribués, l'agent se verra révoqué des rangs du département. Un agent recevant un blâme verra automatiquement retardée sa promotion.
+* <mark style="color:red;">**Licenciement**</mark> : L'agent peut se voir révoqué de l'agence. Le licenciement peut être effectué avec ou sans préavis, selon la nature et la gravité des motifs.
 
 **\[ Article 10-10 ]** - Un agent appartenant au département peut se voir licencier ou suspendre temporairement pour l'un des motifs suivants:
 
@@ -342,7 +353,7 @@ Tout manquement aux règles et principes définis par le présent code l'expose 
 
 **\[ Article 11-2 ]** - Il est interdit de prendre part aux opérations menées par le service en dehors des heures de vos heures de service, sauf ordre contraire.
 
-**\[ Article 11-3 ]** - L'ensemble de l'équipement réglementaire, y compris l'arme de service, doit impérativement être rangé dans le casier de l'agent à la fin de chaque service. Il est interdit aux agents du Federal Bureau of Investigation d'utiliser leur équipement en dehors des heures de service.
+**\[ Article 11-3 ]** - L'ensemble de l'équipement réglementaire, doit impérativement être rangé dans le casier de l'agent à la fin de chaque service. Il est interdit aux agents du Federal Investigation Bureau d'utiliser leur équipement en dehors des heures de service.
 
 * \[ **Article 11-3 a. ]** - Tout les agents sont autorisé à conserver son arme de service après la fin de son service. Cependant, les réglementations relatives aux armes à feu restent inchangées(cf. [ArticleIV](internal-manual.md#article-iv-utilisation-de-la-force)).
 * \[ **Article 11-3 b. ]** - Toute utilisation de l'arme de service par un agent hors service doit faire l'objet d'un rapport écrit et doit être transmis à l'Inspection Division pour examen. Cependant, si l'agent utilise une arme personnelle, cette règle ne s'applique pas, bien qu'il soit tenu de respecter la législation en vigueur.
