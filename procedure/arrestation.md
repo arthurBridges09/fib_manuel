@@ -8,7 +8,7 @@ hidden: true
 
 Ce document détaille la procédure standard à suivre lors de l’arrestation d’un individu. L’objectif est d’assurer une approche professionnelle, légale et sécurisée, garantissant les droits de l’individu tout en respectant les exigences opérationnelles.
 
-## 1.1 - Lectyres des droits miranda
+## 1.1 - Lectures des droits miranda
 
 * **Lieu** : Après l’arrestation, la lecture des droits doit être effectuée **dans un endroit sécurisé et** calme, pour garantir que le suspect comprenne clairement ses droits.
 * **Responsabilité** : L’agent qui effectue la lecture des droits est également responsable de la suite de la procédure.
