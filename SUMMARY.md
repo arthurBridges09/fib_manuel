@@ -17,3 +17,7 @@
   * [Cours Poursuite](document-interne/code-radio/cours-poursuite.md)
 * [Equipement](document-interne/equipement.md)
 * [Internal regulations](document-interne/internal-regulations.md)
+
+## PROCÉDURE
+
+* [🏛️ Arrestation](procedure/arrestation.md)
