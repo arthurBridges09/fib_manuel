@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🏛️ Arrestation
 
 ## Introduction
@@ -54,6 +50,11 @@ Une fois la procédure complétée, l’agent responsable doit rédiger un **rap
 6. **Date de naissance de l’individu** : Identification complémentaire.
 7. **Résultats de la fouille** : Liste des objets saisis ou constatations effectuées.
 8. **Charges retenues** : Infractions ou accusations portées contre l’individu au moment de l’arrestation.
+
+{% hint style="success" %}
+Liens template : [\
+https://mdt.introrp.com/#/arrest-reports/afe1bc8f-e53e-4e86-b3f8-edfcda71622a](https://mdt.introrp.com/#/arrest-reports/afe1bc8f-e53e-4e86-b3f8-edfcda71622a)
+{% endhint %}
 
 ## 3. - Conclusion
 
