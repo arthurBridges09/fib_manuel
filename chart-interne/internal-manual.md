@@ -23,7 +23,7 @@ Le United States Marshals Service est une agence de police fédérale placée so
 
 Le Procureur Général nomme le Directeur du United States Marshals Service. Le Directeur du United States Marshals Service est à la tête de l'United States Marshals Service.
 
-Le rôle du Bureau d'Investigation Fédéral, agissant dans le respect des règles du code de procédure, vise à assurer la protection des États-Unis d’Amérique et de ses citoyens ainsi que le respect des lois.
+Le rôle du United States Marshals Service, agissant dans le respect des règles du code de procédure, vise à assurer la protection des États-Unis d’Amérique et de ses citoyens ainsi que le respect des lois.
 
 ### Article I - Discipline Générale <a href="#article-i-discipline-generale" id="article-i-discipline-generale"></a>
 
