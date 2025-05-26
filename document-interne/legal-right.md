@@ -1,10 +1,10 @@
 # 🏤 Legal Right
 
-En tant qu’agent du Federal Investigation Bureau, votre juridiction est applicable sur l'ensemble du territoire des États-Unis d'Amérique, y compris San Andreas.
+En tant qu’agent du United States Marshals Service, votre juridiction est applicable sur l'ensemble du territoire des États-Unis d'Amérique, y compris San Andreas.
 
 En votre qualité d'agent fédéral, vous possédez le pouvoir de police. Vous êtes habilité à limiter la liberté des individus et à influencer leur comportement lorsqu'il y va de la « sûreté, de la santé, de la morale et du bien-être général ». Ce pouvoir se prévaut d'une interprétation du Xème amendement de la constitution des Etats Unis.
 
-Dans le cadre d'une procédure, un agent du Federal Investigation Bureau peut procéder à des arrestations, des perquisitions et des investigations dans le cadre d'opération fédérale du département.
+Dans le cadre d'une procédure, un agent du United States Marshals Service peut procéder à des arrestations, des perquisitions et des investigations dans le cadre d'opération fédérale du département.
 
 Lorsque vous êtes en service et dans le cadre de réalisation d'une mission fédéral (en intervention), vous êtes prioritaires sur les services de police locaux et étatiques. Un officier de police peut vous contrôler lorsque que vous êtes en service. Si cela venait à arriver, veillez à suivre la procédure suivante:
 

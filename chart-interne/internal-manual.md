@@ -19,9 +19,9 @@ layout:
 
 # 📖 Internal Manual
 
-Le Federal Investigation Bureau est une agence de police fédérale placée sous l'autorité du Département de la Justice.
+Le United States Marshals Service est une agence de police fédérale placée sous l'autorité du Département de la Justice.
 
-Le Procureur Général nomme le Directeur du Bureau d'Investigation Fédéral. Le Directeur du Bureau d'Investigation Fédéral est à la tête du Bureau d'Investigation Fédéral.
+Le Procureur Général nomme le Directeur du United States Marshals Service. Le Directeur du United States Marshals Service est à la tête de l'United States Marshals Service.
 
 Le rôle du Bureau d'Investigation Fédéral, agissant dans le respect des règles du code de procédure, vise à assurer la protection des États-Unis d’Amérique et de ses citoyens ainsi que le respect des lois.
 
@@ -31,7 +31,7 @@ Le rôle du Bureau d'Investigation Fédéral, agissant dans le respect des règl
 
 **\[ Article 1-2 ]** - Tout agent est tenu de faire preuve de sérieux, de discipline et d'assiduité en tout temps durant l'exercice de ses fonctions. Il doit respecter les règles établies, adopter une attitude professionnelle exemplaire et assurer une présence régulière et ponctuelle à son poste de travail. Toute infraction à ces principes peut entraîner des mesures disciplinaires conformément aux dispositions en vigueur.
 
-**\[ Article 1-3 ]** - L'Agent du FIB exerce ses fonctions avec probité :
+**\[ Article 1-3 ]** - L'Agent du USMS exerce ses fonctions avec probité :
 
 * Il ne se prévaut pas de sa qualité pour en tirer un avantage personnel et n'utilise pas à des fins étrangères à sa mission les informations dont il a connaissance dans le cadre de ses fonctions.
 * Il n'accepte aucun avantage ni aucun présent directement ou indirectement lié à ses fonctions ou qu'il se verrait proposer au motif réel ou supposé, d'une décision prise ou dans l'espoir d'une décision à prendre.
@@ -49,30 +49,30 @@ Le rôle du Bureau d'Investigation Fédéral, agissant dans le respect des règl
 
 **\[ Article 1-6 ]** - Lors de l'absence d'un superviseur, celui-ci doit impérativement nommer un subalterne qualifié pour superviser les unités. Dans le même objectif, en cas d'indisponibilité de tout agent qualifié pour la supervision, il revient à l'agent le plus ancien au grade le plus élevé de prendre en main la supervision des unités.
 
-**\[ Article 1-7 ]** - Il est interdit pour deux agents du Federal Investigation Bureau d’entretenir quelconque relation, que celle-ci soit d'ordre amoureuse ou sexuelle.
+**\[ Article 1-7 ]** - Il est interdit pour deux agents du United States Marshals Service d’entretenir quelconque relation, que celle-ci soit d'ordre amoureuse ou sexuelle.
 
 **\[ Article 1-8 ]** - Conformément à la politique en vigueur, seuls quatre drapeaux sont autorisés à être affichés aux alentours du gouvernement et à l'intérieur des bâtiments officiels. Ces drapeaux sont les suivants:
 
 * Drapeau des États-Unis d'Amérique,
 * Drapeau du Department of Justice
-* Drapeau du Federal Investigation Bureau,
+* Drapeau du United States Marshals Service,
 * Drapeau de l'État de San Andreas.
 
 **\[ Article 1-9 ]** - Le fait pour tout agent de fumer ou vapoter en service et/ou dans l'enceinte des emprises du Bureau est strictement interdit, tout comme l'ivresse et la prise de substances psychotropes.
 
 De plus, la vente, la distribution de boissons alcoolisées ou de stupéfiants est interdite dans l’enceinte du département et en dehors de celle-ci.
 
-**\[ Article 1-10 ]** - Les agents du Federal Investigation Bureau doivent non seulement accomplir leurs missions opérationnelles, mais également s'acquitter de leurs tâches administratives. Parmi ces responsabilités administratives, la rédaction de rapports est essentielle. Ces rapports sont cruciaux pour le suivi des activités, la prise de décision et le respect des exigences légales.
+**\[ Article 1-10 ]** - Les agents du United States Marshals Service doivent non seulement accomplir leurs missions opérationnelles, mais également s'acquitter de leurs tâches administratives. Parmi ces responsabilités administratives, la rédaction de rapports est essentielle. Ces rapports sont cruciaux pour le suivi des activités, la prise de décision et le respect des exigences légales.
 
 ### Article II - Sécurité et Confidentialité <a href="#article-ii-securite-et-confidentialite" id="article-ii-securite-et-confidentialite"></a>
 
-Les infrastructures sous l'emprise du FIB sont des zones réglementées, il est interdit pour un agent de faire entrer une personne non habilité dans le bâtiment, que celle-ci soit un simple civil, une autorité publique, politique ou médiatique.
+Les infrastructures sous l'emprise du USMS sont des zones réglementées, il est interdit pour un agent de faire entrer une personne non habilité dans le bâtiment, que celle-ci soit un simple civil, une autorité publique, politique ou médiatique.
 
 Les modèles de documents fournis par le Bureau se doivent d'être respectés.
 
 #### Section 1 - Confidentialité Générale <a href="#section-1-confidentialite-generale" id="section-1-confidentialite-generale"></a>
 
-**\[ Article 2-1 a. ]** - L'agent du FIB est tenu à l'obligation de neutralité.
+**\[ Article 2-1 a. ]** - L'agent du USMS est tenu à l'obligation de neutralité.
 
 * Tout agent fédéral est soumis au devoir de réserve et de mesure dans l'expression écrite et orale de ses convictions personnelles, religieuses, politiques ou philosophiques. Cette obligation ne concerne pas le contenu des opinions (la liberté d'opinion est reconnue aux agents fédéraux), mais leur mode d'expression.
 * L'obligation de réserve s'applique pendant et hors du temps de service. Le manquement au devoir de réserve est apprécié par l'autorité hiérarchique (Chief Office) au cas par cas.
@@ -105,15 +105,15 @@ Plusieurs choses sont également à éviter sur les photos :
 
 **\[ Article 2-2 f. ]** - Il est strictement interdit pour un agent du département, de s’abonner et/ou de soutenir publiquement quelconque parti politique, syndicats, association religieuse et/ou politique et toute autre forme de compte prônant une idéologie, de prendre des photos/vidéos au sein des installations fédérales.
 
-**\[ Article 2-2 g. ]** - Le Chief Office ainsi que l'Inspection Division sont autorisés à surveiller les comptes personnels des agents du service sur les différents réseaux sociaux, afin de s'assurer de la conformité et du respect des règles énoncées dans le présent règlement. En cas de violation de l'une des dispositions, l'agent peut faire l'objet d'une sanction disciplinaire.
+**\[ Article 2-2 g. ]** - Le High Command ainsi que l'Inspection Division sont autorisés à surveiller les comptes personnels des agents du service sur les différents réseaux sociaux, afin de s'assurer de la conformité et du respect des règles énoncées dans le présent règlement. En cas de violation de l'une des dispositions, l'agent peut faire l'objet d'une sanction disciplinaire.
 
-**\[ Article 2-2 h. ]** - Le Chief Office se réserve le droit de demander la suppression de tout élément qu'il estime inapproprié, contraire aux intérêts du service, ou susceptible de compromettre la sécurité des agents ou des opérations.
+**\[ Article 2-2 h. ]** - Le High Command se réserve le droit de demander la suppression de tout élément qu'il estime inapproprié, contraire aux intérêts du service, ou susceptible de compromettre la sécurité des agents ou des opérations.
 
-**\[ Article 2-2 i. ]** - Seuls les membres du Chief Office ainsi que le responsable de la Public Relations Division ont l'autorisation de montrer leur appartenance au département à la télévision ou sur les réseaux sociaux. Ceux-ci sont donc par conséquent les seuls agents du FIB autorisés à être médiatisés.
+**\[ Article 2-2 i. ]** - Seuls les membres du High Command ainsi que le responsable de la Public Relations Division ont l'autorisation de montrer leur appartenance au département à la télévision ou sur les réseaux sociaux. Ceux-ci sont donc par conséquent les seuls agents du USMS autorisés à être médiatisés.
 
 ### Article III - Équipement <a href="#article-iii-equipement" id="article-iii-equipement"></a>
 
-**\[ Article 3-1 ]** - Lors de chaque prise de service il est impératif que chaque agent du Federal Investigation Bureau soit équipé de son matériel réglementaire.
+**\[ Article 3-1 ]** - Lors de chaque prise de service il est impératif que chaque agent du United States Marshals Service soit équipé de son matériel réglementaire.
 
 **\[ Article 3-2 ]** - L'entièreté de l'équipement règlementaire peut être gardée par l'agent après chaque fin de service, à l'exception du Tazer et de la matraque, dont le port est interdit hors service.
 
@@ -138,7 +138,7 @@ Plusieurs choses sont également à éviter sur les photos :
 * Une paire de menottes,
 * Une radio ou oreillette.
 
-**\[ Article 3-11 ] -** Une arme d'épaule peut être attribuée lors d'opération par le superviseur de service. Après chaque fin d'opération, vous devez remiser les armes d'épaules attribuées à titre provisoire et exceptionnel (le Chief Office est exempté de cette règle).
+**\[ Article 3-11 ] -** Une arme d'épaule peut être attribuée lors d'opération par le superviseur de service. Après chaque fin d'opération, vous devez remiser les armes d'épaules attribuées à titre provisoire et exceptionnel (le High Command est exempté de cette règle).
 
 **\[ Article 3-12 ] -** Le vol d'équipement est strictement interdit. Lors de votre intégration, votre équipement vous a été rigoureusement attribué. Tout port d'arme non attribuée à votre personne sera sanctionné.
 
@@ -173,7 +173,7 @@ Les responsables de l’application des lois sont autorisés à recourir à la f
 
 **\[ Article 5-2 ]** - Chaque agent en possession d'un véhicule assigné se doit de garder son véhicule opérationnel et soigné en tout temps, équipé convenablement et rangé correctement.
 
-**\[ Article 5-3 ]** - Le véhicule doit rester comme il a été perçu et mis aux normes, conformément aux lois en vigueur. Toutes les modifications doivent être approuvées par le Chief Office ou la Supervision.
+**\[ Article 5-3 ]** - Le véhicule doit rester comme il a été perçu et mis aux normes, conformément aux lois en vigueur. Toutes les modifications doivent être approuvées par le High Command ou la Shift Supervisor.
 
 * \[ Article 5-3 a. ] - Les modification esthétique, tant qu'elle n'enfreint aucunement le code de l'état de San Andreas ou bien le dit Manuel, sont autoriser.
 * \[ Article 5-3 b. ] - La modification de la couleur et autoriser, cependant, celle-ci se doit de rester dans des teint sombre, ou non voyant (ex: Rose Interdit / Jaune Sable Autoriser).
@@ -190,7 +190,7 @@ Les responsables de l’application des lois sont autorisés à recourir à la f
 
 **\[ Article 5-9 ]** - L'utilisation des véhicules civils appartenant au département est réglementée.
 
-* **\[ Article 5-9 a. ]** - La sortie en voiture civile doit être préalablement validée par un membre du Chief Office.
+* **\[ Article 5-9 a. ]** - La sortie en voiture civile doit être préalablement validée par un membre du High Command.
 * **\[ Article 5-9 b. ]** - Les sorties en voiture civile doivent rester exceptionnelles et sont réservées aux opérations telles que la surveillance, l'infiltration, ou autres missions nécessitant une discrétion particulière.
 * **\[ Article 5-9 c. ]** - L'utilisation de la voiture civile doit être clairement indiquée sur le dispatch, mentionnant l'agent responsable et l'objectif de la mission.
 * **\[ Article 5-9 d. ]** - Toutes les règles mentionnées dans les articles précédents s'appliquent également aux véhicules civils lorsque cela est possible.
@@ -223,7 +223,7 @@ Les responsables de l’application des lois sont autorisés à recourir à la f
 
 \[ Article 6-3 b. ] - À la fin de son service, l'agent est tenu de désactiver sont transpondeur.
 
-\[ Article 6-3 c. ] - L'accès à la carte des transpondeurs sera octroyé à partir du grade de Supervisory Special Agent. Elle devient obligatoire pour tous les agents membres de la Supervision ou du Chief Office.
+\[ Article 6-3 c. ] - L'accès à la carte des transpondeurs sera octroyé à partir du grade de Senior Special Deputy Marshals. Elle devient obligatoire pour tous les agents membres de la Supervision ou du Chief Office.
 
 ### Article VII - Gestion du Service et des Absences <a href="#article-vii-gestion-du-service-et-des-absences" id="article-vii-gestion-du-service-et-des-absences"></a>
 
@@ -274,7 +274,7 @@ Seul sur le torse, le dos ainsi que les épaules sont autorisés. Ils peuvent ê
 
 **\[ Article 8-10 ]** - Les équipements tels que: la cagoule, le bandana, le cache-cou et tout objet ou vêtement dissimulant l’identité de l’agent et son visage sont interdits. L'utilisation de ce matériel se verra autorisé uniquement lors de cas spéciaux ou de sorties divisionnaires.
 
-**\[ Article 8-11 ]** - Toutes les tenues du type “Low Profile” devront être validés par un Assistant Special Agent In-Charge ou supérieur. Si cela n’est pas le cas, des sanctions seront appliquées.
+**\[ Article 8-11 ]** - Toutes les tenues du type “Low Profile” devront être validés par un Sergeant Marshals ou supérieur. Si cela n’est pas le cas, des sanctions seront appliquées.
 
 **\[ Article 8-12 ]** - Chaque agent se doit d'être à jour médicalement: vaccins, blessures, opérations, suivi médical - l'agent se doit aussi de respecter correctement ses Arrêts Temporaires d'Activité (ATA).
 
@@ -290,7 +290,7 @@ Seul sur le torse, le dos ainsi que les épaules sont autorisés. Ils peuvent ê
 * **\[ Article 9-3 b. ]** - Le superviseur d'une division est pleinement responsable de la gestion, de la coordination et du bon fonctionnement de la division qu'il supervise. Il doit également rendre compte de ses actions et de celles de sa division responsable de la branche à laquelle il appartient et au Chief Office.
 * **\[ Article 9-3 c. ]** - Le superviseur d'une division est autorisé à sanctionner les agents de sa division en interne, si il le juge nécessaire, pour assurer la discipline et le respect des procédures propre à sa division. Cependant, si l'agent enfreint une règle du département, il peut se voir sanctionner par la hiérarchie.
 
-**\[ Article 9-3 ]** - L’usage des véhicules appartenant à une division est strictement interdit pour les agents n’étant pas un membre confirmé de la division en question. Exception pour le Chief Office.
+**\[ Article 9-3 ]** - L’usage des véhicules appartenant à une division est strictement interdit pour les agents n’étant pas un membre confirmé de la division en question. Exception pour le High Command.
 
 ### Article X - Sanctions Disciplinaires <a href="#article-x-sanctions-disciplinaires" id="article-x-sanctions-disciplinaires"></a>
 
@@ -322,9 +322,9 @@ Tout manquement aux règles et principes définis par le présent code l'expose 
 * Fouille des véhicules de service affectés aux agents concernés ;
 * Effectuer des interrogatoires sur des agents: Conformément aux droits des Law Enforcement Officer lors d'une audition des affaires internes, seul les civils sont autorisés à garder le silence, si l'agent interrogé refuse de répondre aux questions de l'inspection, celle-ci prendra fin et l'agent sera renvoyé avec effet immédiat. Un procès civil pourra découler de ses responsabilités pénales.
 
-**\[ Article 10-7 ]** - L'Inspection Division rends des conclusions au Chief Office. Le CO prendra ensuite une décision concernant les mesures disciplinaires à prendre, lors d'une convocation ou d'un conseil de discipline.
+**\[ Article 10-7 ]** - L'Inspection Division rends des conclusions au High Command. Le HC prendra ensuite une décision concernant les mesures disciplinaires à prendre, lors d'une convocation ou d'un conseil de discipline.
 
-**\[ Article 10-8 ]** - Tout débordement aperçu par le Chief Office ou l'équipe de Supervision peut se voir sanctionné. Les fautes graves peuvent entraîner un licenciement immédiat.
+**\[ Article 10-8 ]** - Tout débordement aperçu par le High Command ou l'équipe de Supervision peut se voir sanctionné. Les fautes graves peuvent entraîner un licenciement immédiat.
 
 **\[ Article 10-9 ]** - Listes des sanctions applicables:
 
@@ -335,17 +335,17 @@ Tout manquement aux règles et principes définis par le présent code l'expose 
 
 **\[ Article 10-10 ]** - Un agent appartenant au département peut se voir licencier ou suspendre temporairement pour l'un des motifs suivants:
 
-1. Motifs liés à la performance : Le Chief Office peut licencier un agent pour des raisons liées à la performance, notamment des lacunes dans le rendement au travail, le non-respect des normes de l'entreprise, ou l'incapacité à s'adapter aux attentes professionnelles.
-2. Licenciement pour faute : Si un employé commet une faute grave, telle que le vol, la fraude, le harcèlement, le non respect du code de déontologie ou du manuel de service, ou d'autres comportements répréhensibles, le Chief Office peut prendre des mesures de licenciement.
-3. Réduction des effectifs: En cas de restructuration de l'entreprise, ou de diminution des activités, le Chief Office peut licencier des employés.
+1. Motifs liés à la performance : Le High Command peut licencier un agent pour des raisons liées à la performance, notamment des lacunes dans le rendement au travail, le non-respect des normes de l'entreprise, ou l'incapacité à s'adapter aux attentes professionnelles.
+2. Licenciement pour faute : Si un employé commet une faute grave, telle que le vol, la fraude, le harcèlement, le non respect du code de déontologie ou du manuel de service, ou d'autres comportements répréhensibles, le High Command peut prendre des mesures de licenciement.
+3. Réduction des effectifs: En cas de restructuration de l'entreprise, ou de diminution des activités, le High Command peut licencier des employés.
 4. Non-conformité aux politiques du service: Le non-respect des politiques internes de l'entreprise peut constituer un motif de licenciement. Cela peut inclure le non-respect des règles de conduite, des procédures opérationnelles, ou d'autres politiques énoncées par le service.
-5. Licenciement pour des raisons économiques : Si le service fait face à des difficultés financières, le Chief Office peut décider de licencier des employés.
-6. Inaptitude professionnelle : Inaptitude physique, physiologique ou déontologique de l'agent à exercer normalement les fonctions pour lesquelles il a été engagé. en raison de problèmes de santé ou d'autres limitations, le Chief Office peut envisager un licenciement.
+5. Licenciement pour des raisons économiques : Si le service fait face à des difficultés financières, le High Command peut décider de licencier des employés.
+6. Inaptitude professionnelle : Inaptitude physique, physiologique ou déontologique de l'agent à exercer normalement les fonctions pour lesquelles il a été engagé. en raison de problèmes de santé ou d'autres limitations, le High Command peut envisager un licenciement.
 7. Implication Criminelle: Si l'agent impliqué dans une enquête judiciaire pour délit ou crime.
 
 **\[ Article 10-11 ]** - En cas de désaccord sur une révision de contrat diligentée par les services administratifs influant sur les modalités d'emploi de l'agent et ses avantages sociaux, celui-ci peut être licencié au motif d'une rupture de contrat.
 
-**\[ Article 10-12 ] -** Le Chief Office peut se permettre de juger si un profil ne correspond pas au département.
+**\[ Article 10-12 ] -** Le High Command peut se permettre de juger si un profil ne correspond pas au département.
 
 ### Article XI - Hors Service <a href="#article-xi-hors-service" id="article-xi-hors-service"></a>
 
@@ -353,7 +353,7 @@ Tout manquement aux règles et principes définis par le présent code l'expose 
 
 **\[ Article 11-2 ]** - Il est interdit de prendre part aux opérations menées par le service en dehors des heures de vos heures de service, sauf ordre contraire.
 
-**\[ Article 11-3 ]** - L'ensemble de l'équipement réglementaire, doit impérativement être rangé dans le casier de l'agent à la fin de chaque service. Il est interdit aux agents du Federal Investigation Bureau d'utiliser leur équipement en dehors des heures de service.
+**\[ Article 11-3 ]** - L'ensemble de l'équipement réglementaire, doit impérativement être rangé dans le casier de l'agent à la fin de chaque service. Il est interdit aux agents du United States Marshals Service d'utiliser leur équipement en dehors des heures de service.
 
 * \[ **Article 11-3 a. ]** - Tout les agents sont autorisé à conserver son arme de service après la fin de son service. Cependant, les réglementations relatives aux armes à feu restent inchangées(cf. [ArticleIV](internal-manual.md#article-iv-utilisation-de-la-force)).
 * \[ **Article 11-3 b. ]** - Toute utilisation de l'arme de service par un agent hors service doit faire l'objet d'un rapport écrit et doit être transmis à l'Inspection Division pour examen. Cependant, si l'agent utilise une arme personnelle, cette règle ne s'applique pas, bien qu'il soit tenu de respecter la législation en vigueur.
