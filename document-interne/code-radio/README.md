@@ -13,23 +13,11 @@ Votre présence sur la radio est obligatoire une fois en service, cependant, cel
 
 ### Identification Radio <a href="#identification-radio" id="identification-radio"></a>
 
-La base d’une communication radio est l’identification. Chaque agent du Federal Investigation Bureau s'identifie différemment en fonction de son statut et de son numéro d’unité.
+La base d’une communication radio est l’identification. Chaque agent du United States Marshals Service s'identifie différemment en fonction de son statut et de son numéro d’unité.
 
-Chaque personnel s'annonce de la manière suivante : **\[Indicatif] + \[Matricule]**.
+Chaque personnel s'annonce de la manière suivante : **\[Matricule]**.
 
 **Listes des indicatifs:**
-
-| #    | Signification | Division                          |
-| ---- | ------------- | --------------------------------- |
-| F    | Frank         | Violent Crime Fugitive Task Force |
-| I    | Ida           | Counterintelligence Division      |
-| R    | Robert        | Recruitment and Training Office   |
-| S    | Sam           | Joint Terrorism Task Force        |
-| T    | Tom           | Criminal Investigation Division   |
-| U    | Union         | Inspection Division               |
-| G    | Golf          | Hostage Rescue Team               |
-| AIR  | AIR           | Special Flight Operations Unit    |
-| BOAT | BOAT          | Special Maritime Operations       |
 
 ### Call Radio :
 
@@ -51,7 +39,7 @@ Chaque personnel s'annonce de la manière suivante : **\[Indicatif] + \[Matricul
 | Code 6                 | Poursuite à pied.                                                                                             |
 | Code 99                | <mark style="color:red;">**URGENCE ABSOLUE**</mark> toutes les unités disponible doivent se rendre sur place. |
 
-### Individu Indicatifs :&#x20;
+### Individu Indicatifs :
 
 | Indicatifs | Signification                                  |
 | ---------- | ---------------------------------------------- |
@@ -61,7 +49,7 @@ Chaque personnel s'annonce de la manière suivante : **\[Indicatif] + \[Matricul
 | Mobster    | Membre de Gang                                 |
 | TIDY       | Manifestant                                    |
 
-### Lieux Indicatifs :&#x20;
+### Lieux Indicatifs :
 
 | Indicatif | Lieu                                       |
 | --------- | ------------------------------------------ |
@@ -74,7 +62,7 @@ Chaque personnel s'annonce de la manière suivante : **\[Indicatif] + \[Matricul
 | JUSTICE   | Department of Justice                      |
 | TANIERE   | Prison d'État (Bolingbroke)                |
 | ILONA     | Satellites Sandy Shores - Datacenter       |
-| OLYMPE    | Bunker FIB                                 |
+| OLYMPE    | HQ USMS                                    |
 
 ***
 

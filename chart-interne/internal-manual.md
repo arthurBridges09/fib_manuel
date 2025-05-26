@@ -75,7 +75,7 @@ Les modèles de documents fournis par le Bureau se doivent d'être respectés.
 **\[ Article 2-1 a. ]** - L'agent du USMS est tenu à l'obligation de neutralité.
 
 * Tout agent fédéral est soumis au devoir de réserve et de mesure dans l'expression écrite et orale de ses convictions personnelles, religieuses, politiques ou philosophiques. Cette obligation ne concerne pas le contenu des opinions (la liberté d'opinion est reconnue aux agents fédéraux), mais leur mode d'expression.
-* L'obligation de réserve s'applique pendant et hors du temps de service. Le manquement au devoir de réserve est apprécié par l'autorité hiérarchique (Chief Office) au cas par cas.
+* L'obligation de réserve s'applique pendant et hors du temps de service. Le manquement au devoir de réserve est apprécié par l'autorité hiérarchique (High Command) au cas par cas.
 * Cette obligation impose aux agents fédéraux d'éviter en toutes circonstances les comportements susceptibles de porter atteinte à la considération du Gouvernement Fédéral ou de toute autre agence fédérale par les citoyens américains. Les employés civils y sont donc également soumis.
 
 **\[ Article 2-1 b. ]** - Il est interdit pour un agent de divulguer des renseignements, plans d'opérations ou tout autre information sur le département. Tout protocole, opération, directive qui découle du service est confidentiel et n'a pas lieu d'être diffusé à quiconque est extérieur au Département de la Sécurité Intérieur ou de la Justice.
@@ -105,7 +105,7 @@ Plusieurs choses sont également à éviter sur les photos :
 
 **\[ Article 2-2 f. ]** - Il est strictement interdit pour un agent du département, de s’abonner et/ou de soutenir publiquement quelconque parti politique, syndicats, association religieuse et/ou politique et toute autre forme de compte prônant une idéologie, de prendre des photos/vidéos au sein des installations fédérales.
 
-**\[ Article 2-2 g. ]** - Le High Command ainsi que l'Inspection Division sont autorisés à surveiller les comptes personnels des agents du service sur les différents réseaux sociaux, afin de s'assurer de la conformité et du respect des règles énoncées dans le présent règlement. En cas de violation de l'une des dispositions, l'agent peut faire l'objet d'une sanction disciplinaire.
+**\[ Article 2-2 g. ]** - Le High Command ainsi que le Professional Responsability Division sont autorisés à surveiller les comptes personnels des agents du service sur les différents réseaux sociaux, afin de s'assurer de la conformité et du respect des règles énoncées dans le présent règlement. En cas de violation de l'une des dispositions, l'agent peut faire l'objet d'une sanction disciplinaire.
 
 **\[ Article 2-2 h. ]** - Le High Command se réserve le droit de demander la suppression de tout élément qu'il estime inapproprié, contraire aux intérêts du service, ou susceptible de compromettre la sécurité des agents ou des opérations.
 
@@ -223,7 +223,7 @@ Les responsables de l’application des lois sont autorisés à recourir à la f
 
 \[ Article 6-3 b. ] - À la fin de son service, l'agent est tenu de désactiver sont transpondeur.
 
-\[ Article 6-3 c. ] - L'accès à la carte des transpondeurs sera octroyé à partir du grade de Senior Special Deputy Marshals. Elle devient obligatoire pour tous les agents membres de la Supervision ou du Chief Office.
+\[ Article 6-3 c. ] - L'accès à la carte des transpondeurs sera octroyé à partir du grade de Senior Special Deputy Marshals. Elle devient obligatoire pour tous les agents membres de la Supervision ou du High Command.
 
 ### Article VII - Gestion du Service et des Absences <a href="#article-vii-gestion-du-service-et-des-absences" id="article-vii-gestion-du-service-et-des-absences"></a>
 
@@ -287,7 +287,7 @@ Seul sur le torse, le dos ainsi que les épaules sont autorisés. Ils peuvent ê
 **\[ Article 9-3 ]** - Supervision d'une division
 
 * **\[ Article 9-3 a. ]** - Le superviseur de division est pleinement responsable de la gestion, de la coordination et du bon fonctionnement de la division qu'il supervise. Il doit rendre compte de ses actions et de celles de sa division au responsable de la branche à laquelle il appartient.
-* **\[ Article 9-3 b. ]** - Le superviseur d'une division est pleinement responsable de la gestion, de la coordination et du bon fonctionnement de la division qu'il supervise. Il doit également rendre compte de ses actions et de celles de sa division responsable de la branche à laquelle il appartient et au Chief Office.
+* **\[ Article 9-3 b. ]** - Le superviseur d'une division est pleinement responsable de la gestion, de la coordination et du bon fonctionnement de la division qu'il supervise. Il doit également rendre compte de ses actions et de celles de sa division responsable de la branche à laquelle il appartient et au High Command.
 * **\[ Article 9-3 c. ]** - Le superviseur d'une division est autorisé à sanctionner les agents de sa division en interne, si il le juge nécessaire, pour assurer la discipline et le respect des procédures propre à sa division. Cependant, si l'agent enfreint une règle du département, il peut se voir sanctionner par la hiérarchie.
 
 **\[ Article 9-3 ]** - L’usage des véhicules appartenant à une division est strictement interdit pour les agents n’étant pas un membre confirmé de la division en question. Exception pour le High Command.
@@ -296,11 +296,11 @@ Seul sur le torse, le dos ainsi que les épaules sont autorisés. Ils peuvent ê
 
 Tout manquement aux règles et principes définis par le présent code l'expose à une sanction disciplinaire en application des règles propres à son statut, indépendamment des sanctions pénales encourues.
 
-**\[ Article 10-1 ]** - Lorsqu'un agent commet une faute ou est soupçonné d'avoir commis une faute grave, son supérieur ou l'Inspection Division peut ordonner un congé administratif et peut relever un agent de ses fonctions le temps de l'enquête interne.
+**\[ Article 10-1 ]** - Lorsqu'un agent commet une faute ou est soupçonné d'avoir commis une faute grave, son supérieur ou au Professional Responsability Division peut ordonner un congé administratif et peut relever un agent de ses fonctions le temps de l'enquête interne.
 
 **\[ Article 10-2 ]** - Lors du placement en congé administratif, l'agent à l'obligation de coopérer avec les services des affaires internes. Tout refus entrainera immédiatement un licenciement.
 
-**\[ Article 10-3 ]** - Une fois le congé administratif prononcé par un supérieur, celui-ci doit remplir un rapport d'incident détaillé, qui décrit le contexte, la faute, le déroulé des événements. Ce rapport doit rédigé dans les plus brefs délais et envoyé à l'Inspection Division.
+**\[ Article 10-3 ]** - Une fois le congé administratif prononcé par un supérieur, celui-ci doit remplir un rapport d'incident détaillé, qui décrit le contexte, la faute, le déroulé des événements. Ce rapport doit rédigé dans les plus brefs délais et envoyé aux Professional Responsability Division.
 
 **\[ Article 10-4 ]** - Lors du placement en congé administratif, l'agent fautif doit se voir citer les information suivantes :
 
@@ -316,19 +316,19 @@ Tout manquement aux règles et principes définis par le présent code l'expose 
 * Rendre les clés de son véhicule de fonction;
 * Se rendre aux convocations de sa hiérarchie.
 
-**\[ Article 10-6 ]** - L'Inspection Division enquêtera sur le déroulement des faits, et auront autorité sur l'ensemble du service pour résoudre leurs enquêtes. Ils pourront:
+**\[ Article 10-6 ]** - Le Professional Responsability Division enquêtera sur le déroulement des faits, et auront autorité sur l'ensemble du service pour résoudre leurs enquêtes. Ils pourront:
 
 * Fouille des casiers des personnels du bureau ;
 * Fouille des véhicules de service affectés aux agents concernés ;
 * Effectuer des interrogatoires sur des agents: Conformément aux droits des Law Enforcement Officer lors d'une audition des affaires internes, seul les civils sont autorisés à garder le silence, si l'agent interrogé refuse de répondre aux questions de l'inspection, celle-ci prendra fin et l'agent sera renvoyé avec effet immédiat. Un procès civil pourra découler de ses responsabilités pénales.
 
-**\[ Article 10-7 ]** - L'Inspection Division rends des conclusions au High Command. Le HC prendra ensuite une décision concernant les mesures disciplinaires à prendre, lors d'une convocation ou d'un conseil de discipline.
+**\[ Article 10-7 ]** - Le Professional Responsability Division rends des conclusions au High Command. Le HC prendra ensuite une décision concernant les mesures disciplinaires à prendre, lors d'une convocation ou d'un conseil de discipline.
 
 **\[ Article 10-8 ]** - Tout débordement aperçu par le High Command ou l'équipe de Supervision peut se voir sanctionné. Les fautes graves peuvent entraîner un licenciement immédiat.
 
 **\[ Article 10-9 ]** - Listes des sanctions applicables:
 
-* <mark style="color:red;">**Suspension**</mark> : L'agent ne peut plus exercer son activité professionnelle pour une durée définie par le Chief Office/Supervision. L'agent ne pourra pas se présenter en qualité d'agent fédéral quelque soit les circonstances.
+* <mark style="color:red;">**Suspension**</mark> : L'agent ne peut plus exercer son activité professionnelle pour une durée définie par le High Command/Supervision. L'agent ne pourra pas se présenter en qualité d'agent fédéral quelque soit les circonstances.
 * <mark style="color:red;">**Rétrogradation**</mark> : L'agent verra son rang réduit au sein de la hiérarchie.
 * <mark style="color:red;">**Blâme**</mark> : Le blâme constitue un avertissement officiel. Après 3 blâmes attribués, l'agent se verra révoqué des rangs du département. Un agent recevant un blâme verra automatiquement retardée sa promotion.
 * <mark style="color:red;">**Licenciement**</mark> : L'agent peut se voir révoqué de l'agence. Le licenciement peut être effectué avec ou sans préavis, selon la nature et la gravité des motifs.
@@ -356,7 +356,7 @@ Tout manquement aux règles et principes définis par le présent code l'expose 
 **\[ Article 11-3 ]** - L'ensemble de l'équipement réglementaire, doit impérativement être rangé dans le casier de l'agent à la fin de chaque service. Il est interdit aux agents du United States Marshals Service d'utiliser leur équipement en dehors des heures de service.
 
 * \[ **Article 11-3 a. ]** - Tout les agents sont autorisé à conserver son arme de service après la fin de son service. Cependant, les réglementations relatives aux armes à feu restent inchangées(cf. [ArticleIV](internal-manual.md#article-iv-utilisation-de-la-force)).
-* \[ **Article 11-3 b. ]** - Toute utilisation de l'arme de service par un agent hors service doit faire l'objet d'un rapport écrit et doit être transmis à l'Inspection Division pour examen. Cependant, si l'agent utilise une arme personnelle, cette règle ne s'applique pas, bien qu'il soit tenu de respecter la législation en vigueur.
+* \[ **Article 11-3 b. ]** - Toute utilisation de l'arme de service par un agent hors service doit faire l'objet d'un rapport écrit et doit être transmis aux Professional Responsability Division pour examen. Cependant, si l'agent utilise une arme personnelle, cette règle ne s'applique pas, bien qu'il soit tenu de respecter la législation en vigueur.
 * **\[ Article 11-3 c. ]** - Comme indiqué dans l'Art. 5-1, l'utilisation du véhicule de fonction ou d'un véhicule du service de manière personnelle ou en dehors du service de l'agent est strictement interdit.
 
 **\[ Article 11-4 ]** - Les règles de confidentialité s'appliquent également aux agents hors service. La violation des règles de confidentialité peut entraîner des sanctions disciplinaires, mais également des poursuites pénales. La confidentialité est essentielle pour protéger les opérations, les agents ainsi que les citoyens.

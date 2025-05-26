@@ -18,8 +18,8 @@ ATTENTION TOUT LES DOCUMENTS FOURNI ICI SONT CONFIDENTIEL
 [uniforms.md](document-interne/uniforms.md)
 {% endcontent-ref %}
 
-{% content-ref url="document-interne/premier-secours.md" %}
-[premier-secours.md](document-interne/premier-secours.md)
+{% content-ref url="procedure/premier-secours.md" %}
+[premier-secours.md](procedure/premier-secours.md)
 {% endcontent-ref %}
 
 {% content-ref url="document-interne/equipement.md" %}

@@ -71,20 +71,20 @@
 
 ### \[ 1-11 ] - Senior Deputy Marshals
 
-* \[ 1-10 a. ] - Le Senior Deputy Marshals est un enquêteur chargé de protéger et de défendre les États-Unis contre les menaces criminelles et de sécurité nationale.
-* \[ 1-10 b. ] - Le Senior Deputy Marshals est chargé de superviser des enquêtes de grande envergure ou particulièrement sensibles. Cela peut inclure des affaires criminelles, des enquêtes de sécurité nationale, ou des opérations internationales.
+* \[ 1-11 a. ] - Le Senior Deputy Marshals est un enquêteur chargé de protéger et de défendre les États-Unis contre les menaces criminelles et de sécurité nationale.
+* \[ 1-11 b. ] - Le Senior Deputy Marshals est chargé de superviser des enquêtes de grande envergure ou particulièrement sensibles. Cela peut inclure des affaires criminelles, des enquêtes de sécurité nationale, ou des opérations internationales.
 
-### \[ 1-11 ] - Deputy Marshals
+### \[ 1-12 ] - Deputy Marshals
 
-* \[ 1-11 a. ] - Le Deputy Marshals est un enquêteur chargé de protéger et de défendre les États-Unis contre les menaces criminelles et de sécurité nationale.
-* \[ 1-11 b. ] - Le Deputy Marshals mène des enquêtes sur une variété de crimes fédéraux, tels que le terrorisme, l'espionnage, la cybercriminalité, la corruption publique, et le crime organisé. Ils recueillent et analysent des preuves, interrogent des témoins et des suspects, et collaborent avec d'autres agences et services de police. Le Special Agent est formé pour intervenir dans des situations.
+* \[ 1-12 a. ] - Le Deputy Marshals est un enquêteur chargé de protéger et de défendre les États-Unis contre les menaces criminelles et de sécurité nationale.
+* \[ 1-12 b. ] - Le Deputy Marshals mène des enquêtes sur une variété de crimes fédéraux, tels que le terrorisme, l'espionnage, la cybercriminalité, la corruption publique, et le crime organisé. Ils recueillent et analysent des preuves, interrogent des témoins et des suspects, et collaborent avec d'autres agences et services de police. Le Special Agent est formé pour intervenir dans des situations.
 
-### \[ 1-12 ] - Junior Deputy Marshals
+### \[ 1-13 ] - Junior Deputy Marshals
 
-* \[ 1-12 a. ] - Le Junior Deputy Marshals est une recrue en cours de formation pour devenir Deputy Marshals au sein de l'agence.
-* \[ 1-12 b. ] - l'agent effectuera une période d'essai de 2 semaines, le Training Office jugera à la fin de la période d'essai si l'agent a les compétences pour rester au sein du Field Office.
-* \[ 1-12 c. ] - A la fin de cette période, si les responsables Training Office jugent que le Junior Deputy Marshals est prêt pour partir sur le terrain, l'agent effectuera une période d'essai de 2 semaines.
-* \[ 1-12 d. ] - La formation du Junior Deputy Marshals couvre divers domaines, tels que le droit, les techniques d'enquête, la manipulation des armes à feu, les compétences en matière de communication et de gestion des crises. Le Junior Deputy Marshals est évalué sur ses performances et son aptitude à travailler dans diverses situations. Une fois la formation réussie, l'agent est prêt à intégrer l'agence pleinement en tant qu'agent spécial, prêt à mener des enquêtes et à contribuer à la mission de l'agence en matière de sécurité nationale et d'application des lois.
+* \[ 1-13 a. ] - Le Junior Deputy Marshals est une recrue en cours de formation pour devenir Deputy Marshals au sein de l'agence.
+* \[ 1-13 b. ] - l'agent effectuera une période d'essai de 2 semaines, le Training Office jugera à la fin de la période d'essai si l'agent a les compétences pour rester au sein du Field Office.
+* \[ 1-13 c. ] - A la fin de cette période, si les responsables Training Office jugent que le Junior Deputy Marshals est prêt pour partir sur le terrain, l'agent effectuera une période d'essai de 2 semaines.
+* \[ 1-13 d. ] - La formation du Junior Deputy Marshals couvre divers domaines, tels que le droit, les techniques d'enquête, la manipulation des armes à feu, les compétences en matière de communication et de gestion des crises. Le Junior Deputy Marshals est évalué sur ses performances et son aptitude à travailler dans diverses situations. Une fois la formation réussie, l'agent est prêt à intégrer l'agence pleinement en tant qu'agent spécial, prêt à mener des enquêtes et à contribuer à la mission de l'agence en matière de sécurité nationale et d'application des lois.
 
 ## SECTION 2: Director's Office, High Command & Shift Supervisor
 

@@ -1,20 +1,18 @@
 ---
-description: >-
-  Règlement des différentes demande effectué au près du Office of Human
-  Ressource
+description: Règlement des différentes demande effectué au près du High Command
 icon: headset
 ---
 
-# OHR Chart
+# HC Chart
 
-## 1. Remboursement Custom/Performance :&#x20;
+## 1. Remboursement Custom/Performance :
 
 * Une facture officielle et détaillée (avec date, description complète des modifications et nom de l’atelier) doit être soumise avec toute demande de remboursement.
 * Les modifications doivent être approuvées à l’avance par un supérieur hiérarchique pour être éligibles au remboursement.
 * Les modifications doivent avoir un impact direct sur la performance du véhicule pour des raisons opérationnelles (améliorations du moteur, systèmes de freinage, etc.).
 * Les modifications non nécessaires ou cosmétiques, ne seront pas remboursées (sauf la couleur du véhicules remboursable une seule fois).
 
-## 2. Achat d'un Véhicule Undercorver :&#x20;
+## 2. Achat d'un Véhicule Undercorver :
 
 * Le prix du véhicule ne doit jamais excéder 150 000 $, sauf si une dérogation exceptionnelle est approuvée par la direction pour des missions spécifiques.
 * Une justification détaillée doit être fournie, expliquant pourquoi ce véhicule est essentiel à la mission et pourquoi un véhicule standard ne pourrait pas convenir.
@@ -23,19 +21,19 @@ icon: headset
 * Un suivi régulier de l’état et de l’utilisation des véhicules undercover doit être réalisé.
 * Tout véhicule acheté sans autorisation préalable ou qui dépasse les critères établis sera immédiatement retiré de service et pourra entraîner des sanctions pour la personne ayant effectué l’achat.
 
-## 3. Frais de service avec une Entreprise Non Partenaire : &#x20;
+## 3. Frais de service avec une Entreprise Non Partenaire :
 
 * La demande doit obligatoirement être soumise à l’avance pour validation par un supérieur, sauf en cas de force majeure.
 * Une documentation expliquant pourquoi un prestataire non partenaire a été choisi doit être fournie avec la facture (par exemple, l'indisponibilité temporaire d'un partenaire ou une compétence spécifique non couverte)..
 * Les collaborations répétées avec des entreprises non partenaires doivent être signalées au service des achats pour évaluer l'opportunité d’établir un partenariat.
 
-## 4. Demande de Matériel pour la Maison Blanche :&#x20;
+## 4. Demande de Matériel pour la Maison Blanche :
 
 * Les demandes doivent être planifiées à l’avance dans le cadre des besoins opérationnels, et non en réponse à une urgence évitable.
 * Les demandes doivent inclure un plan d’utilisation détaillé, précisant comment et par qui le matériel sera utilisé, ainsi que les éventuels besoins de formation pour son utilisation.
 * Un inventaire des équipements disponibles doit être consulté avant toute nouvelle acquisition afin d’éviter les doublons et optimiser les ressources existantes.
 
-## 5. Disposition Général :&#x20;
+## 5. Disposition Général :
 
 * Transparence et Suivi : Toutes les demandes et remboursements doivent être documentés de manière transparente dans un système de gestion interne pour un suivi clair et accessible à tout moment.
 * Délais : Les demandes de remboursement ou d'achat doivent être effectuées dans un délai maximum de 30 jours après l'achat ou la prestation de service, sauf en cas de force majeure. Passé ce délai, elles seront automatiquement rejetées.
@@ -43,6 +41,5 @@ icon: headset
 * Sanctions en cas de fraude ou abus : Toute tentative de fraude ou d'abus dans l’utilisation des ressources de l’OHR pourra entraîner des sanctions disciplinaires allant du blâme à des poursuites judiciaires, en fonction de la gravité des faits.
 
 {% hint style="danger" %}
-<mark style="color:red;">**Responsabilité Personnelle :**</mark> <mark style="color:red;"></mark><mark style="color:red;">Chaque employé est personnellement responsable des demandes qu’il soumet. En cas d’erreur ou de non-conformité, la responsabilité sera imputée à la personne ayant fait la demande ou à son supérieur direct si une approbation formelle a été donnée.</mark>
+<mark style="color:red;">**Responsabilité Personnelle :**</mark> <mark style="color:red;">Chaque employé est personnellement responsable des demandes qu’il soumet. En cas d’erreur ou de non-conformité, la responsabilité sera imputée à la personne ayant fait la demande ou à son supérieur direct si une approbation formelle a été donnée.</mark>
 {% endhint %}
-
